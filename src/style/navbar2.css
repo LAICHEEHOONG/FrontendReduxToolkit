@@ -1,0 +1,23 @@
+.nav_input {
+    max-width: 200px !important;
+}
+
+.date_picker {
+    margin-right: 10px;
+    margin-top: -8px;
+    max-width: 400px;
+    margin-left: 10px;
+}
+
+.clear_btn {
+    margin-left: 10px;
+}
+
+.target_group_select {
+    margin-left: 10px;
+}
+
+@media screen and (max-width: 700px) {
+
+  }
+  
